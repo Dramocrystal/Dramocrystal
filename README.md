@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A webapplication and an indie game**
 
-- 🌱 I’m currently learning **Game development and FullStack development**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **EMAIL @ asselahyazid@gmail.com**
 
